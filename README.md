@@ -6,7 +6,7 @@ It responds to a GET request for a custom OID with the string "hello world".
 
 ## Requirements
 
-- Net-SNMP development libraries (e.g., `libsnmp-dev`)
+- Net-SNMP development libraries (e.g., `libsnmp-dev snmp snmpd`)
 - CMake
 - g++
 
